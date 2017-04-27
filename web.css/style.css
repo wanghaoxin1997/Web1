@@ -1,0 +1,7 @@
+html {font-family: 'Arial';font-size: 12px;line-height: 2em;color:grey;}
+a:link {text-decoration:none;color:#72727}
+a:hover {text-decoration: underline;}
+.first {color:white;}
+#two {font-size: 14px;font-weight: 600;color:#b9f605;}
+.first:hover {color:#b9f605;text-decoration:underline;}
+#three{color:#fdb306;}
