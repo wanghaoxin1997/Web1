@@ -1,0 +1,8 @@
+ul{list-style-type:none;background-image:url(../image/bg.gif);height: 70px;width: 90%;background-position: center;}
+a{font-style:'闅朵功';}
+li{float: left;margin-left: 50px;margin-top: 20px;}
+#a{color:#b9f605;}
+a:link{color:white;text-decoration:none;}
+a:visited{color:white;text-decoration:none;}
+.sp:link{color:orange;}
+.sp:visited{color: orange;}
