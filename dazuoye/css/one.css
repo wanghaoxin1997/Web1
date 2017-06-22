@@ -1,0 +1,118 @@
+/*通用部分*/
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    color: #522a06;
+    font-family: '幼圆';
+}
+a,a:hover,a:visited,a:link {
+    color: #522a06;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+ul, li {
+    list-style: none;
+}
+
+/*head*/
+#zongti{width: 1519px;height:1650px;}
+#header{width:1000px;height:149px;}
+#one{width:1519px;height:30px;background-color: #c3c3c3;}
+#one ul li{
+	float:left;
+	padding-right: 50px;
+
+}
+#one #n{padding-left:400px; }
+#tu{float:left;padding-left: 400px;}
+#reserch{padding-top:15px;}
+#daohang{width: 250px;
+	height: 25px;
+	background: white;
+	border:2px solid #FF0080; 
+}
+#re{width: 100px;
+	height: 29px;
+	background-color: #FF0080;
+	color: white;
+	border: 2px solid #FF0080;
+	position: relative;
+	right: 6px;
+}
+#first{width:1519px;height:40px;background-color:#FF0080 ;padding-top: 20px;margin-top: 30px;}
+#first ul li{
+	float:left;
+	padding-right: 50px;
+
+}
+#first ul li a{font-weight: bold;font-size: 20px;color:white;font-family: '宋体'；}
+#first #m{padding-left: 200px;}
+#first #z{color:black;}
+/*主题*/
+#concent{width: 1519px;height:1650px;}
+#l{width:1519px;height:300px;margin-bottom: 0px;}
+#two{background-color: #530270;width:1519px;height:1350px;}
+#left{
+	width:200px;height:1350px;
+	margin-right: 0px;
+	float: left;
+}
+#left ul li {border-bottom: 2px solid white;padding: 20px;}
+#left ul li a {font-size: 21px;color:white;font-family: '宋体'； }
+#center{
+	width:1219px;height:1350px;float:left;
+}
+#center #you{padding-left: 200px;}
+
+#center #lan{width:260px;height:330px;border:2px solid white;margin-left: 125px;margin-top: 50px;margin-right: 0px;margin-bottom: 0px;
+float:left;}
+#lan h1{color:#88F6F7;font-size: 20px;text-align: center;padding-top: 5px;}
+#lan #anniu{width:100px;height:25px;margin-left: 70px;margin-top: 15px;background-color:#FAC040 ;}
+
+
+
+#center #dior{width:260px;height:330px;border:2px solid white;margin-left: 50px;margin-top: 50px;margin-right: 0px;margin-bottom: 0px;
+float:left;}
+#dior h1{color:#88F6F7;font-size: 20px;text-align: center;padding-top: 5px;}
+#dior #anniu{width:100px;height:25px;margin-left: 70px;margin-top: 15px;background-color:#FAC040 ;}
+
+
+#center #ajidou{width:260px;height:330px;border:2px solid white;margin-left: 50px;margin-top: 50px;margin-right: 0px;margin-bottom: 0px;
+float:left;}
+#ajidou h1{color:#88F6F7;font-size: 20px;text-align: center;padding-top: 5px;}
+#ajidou #anniu{width:100px;height:25px;margin-left: 70px;margin-top: 15px;background-color:#FAC040 ;}
+
+#center #shui{width:260px;height:330px;border:2px solid white;margin-left: 125px;margin-top: 50px;margin-bottom: 0px;margin-right: 0px;
+	float:left;
+}
+#shui h1{color:#88F6F7;font-size: 20px;text-align: center;padding-top: 5px;}
+#shui #anniu{width:100px;height:25px;margin-left: 70px;margin-top: 15px;background-color:#FAC040 ;}
+
+
+#center #yiyezi{width:260px;height:330px;border:2px solid white;margin-left: 50px;margin-top: 50px;margin-right: 0px;margin-bottom: 0px;
+float:left;}
+#yiyezi h1{color:#88F6F7;font-size: 20px;text-align: center;padding-top: 5px;}
+#yiyezi #anniu{width:100px;height:25px;margin-left: 70px;margin-top: 15px;background-color:#FAC040 ;}
+
+
+#center #wis{width:260px;height:330px;border:2px solid white;margin-left: 50px;margin-top: 50px;margin-right: 0px;margin-bottom: 0px;
+float:left;}
+#wis h1{color:#88F6F7;font-size: 20px;text-align: center;padding-top: 5px;}
+#wis #anniu{width:100px;height:25px;margin-left: 70px;margin-top: 15px;background-color:#FAC040 ;}
+#right{
+	width:100px;height:1350px;
+	float: right;
+}
+#right ul li {padding-top:100px;}
+#right ul li a{font-size: 15px;color:white;font-family: '幼圆'；}
+/*页尾*/
+#last{width:1519px;height:100px; background-color: #2B2B2B;}
+#guanyu{width:1519px;height:30px;background-color: black;}
+#guanyu ul li{padding-left: 150px;float:left;}
+#guanyu ul li a{font-size: 20px;color:white;font-family: '宋体'；}
+#shuoming{padding-left: 200px;}
+#shuoming p{font-size: 12px;color:white;font-family: '幼圆'}
